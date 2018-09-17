@@ -1,2 +1,4 @@
 # moew
-Random pictures of my cats with a clicker counter
+Random pictures of my cats with a clicker counter!
+- This is a practical quiz of my course Front-End Nanodegree Program.
+- Select the cat name, click on the picture and let the counter increment.
