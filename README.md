@@ -1,6 +1,7 @@
 # moew
 Random pictures of my cats with a clicker counter!
 - This is a practical quiz of my course Front-End Nanodegree Program.
+- MVO *MVC* design pattern
 - Select the cat name, click on the picture and let the counter increment.
 
 # How it works
